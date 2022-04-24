@@ -1,0 +1,5 @@
+/.git
+server/*/bin
+server/*/obj
+server/*/scriptcs_bin
+/server

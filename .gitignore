@@ -1,9 +1,10 @@
 /.git
 /.vscode
-/server/*/bin-m 
-/server/*/obj
-/server/*/scriptcs_bin
-/web/*/node_modules
-/web/*/.git
-/web/*/.github
+bin/
+bin-m/
+obj/
+scriptcs_bin/
+node_modules/
+.git/
+.github/
 
